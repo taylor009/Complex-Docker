@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd67c7ae-2eaa-4c48-a499-7924c6098ea6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerrun.aws.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +75,7 @@
       <workItem from="1560999025901" duration="163000" />
       <workItem from="1560999199424" duration="105000" />
       <workItem from="1560999315283" duration="55000" />
-      <workItem from="1560999380921" duration="4045000" />
+      <workItem from="1560999380921" duration="9394000" />
     </task>
     <task id="LOCAL-00001" summary="finished adding nginx config and add service to compose file.">
       <created>1561000218294</created>
@@ -90,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1561002462176</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added travis ci to project">
+      <created>1561003655784</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1561003655784</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,6 +123,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="finished adding nginx config and add service to compose file." />
     <MESSAGE value="finished setting up production docker files" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished setting up production docker files" />
+    <MESSAGE value="added travis ci to project" />
+    <option name="LAST_COMMIT_MESSAGE" value="added travis ci to project" />
   </component>
 </project>
