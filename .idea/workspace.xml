@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bd67c7ae-2eaa-4c48-a499-7924c6098ea6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Dockerrun.aws.json" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerrun.aws.json" afterDir="false" />
-    </list>
+    <list default="true" id="bd67c7ae-2eaa-4c48-a499-7924c6098ea6" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +71,7 @@
       <workItem from="1560999025901" duration="163000" />
       <workItem from="1560999199424" duration="105000" />
       <workItem from="1560999315283" duration="55000" />
-      <workItem from="1560999380921" duration="9980000" />
+      <workItem from="1560999380921" duration="10606000" />
     </task>
     <task id="LOCAL-00001" summary="finished adding nginx config and add service to compose file.">
       <created>1561000218294</created>
@@ -103,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1561072158229</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="fixed Aws memory issue.">
+      <created>1561072793966</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1561072793966</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,6 +135,7 @@
     <MESSAGE value="finished setting up production docker files" />
     <MESSAGE value="added travis ci to project" />
     <MESSAGE value="Added deployment to aws" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added deployment to aws" />
+    <MESSAGE value="fixed Aws memory issue." />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed Aws memory issue." />
   </component>
 </project>
